@@ -24,7 +24,7 @@
 
 🎨 UI/UX and plan core features
 
-### Hackaton - Developped an sport app in 24h, with a team of 4 people.
+### Hackaton - Developped an sport app in 5 days, with a team of 4 people.
 backend and frontend
 
 [📱 Frontend](https://github.com/Bigchef-dev/hackaton-front) - developped by my pairs
