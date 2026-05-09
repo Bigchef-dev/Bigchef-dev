@@ -1,7 +1,7 @@
-# Hello, moi c'est Mathéo 👋
+# Hello, i am Mathéo 👋
 
 🎓 Computer Science student at the University of Rennes 
- 
+
 🤖 Full-Stack AI Engineer  
 
 ## Skills & Interests
@@ -35,9 +35,10 @@ backend and frontend
 [🤖 Telegram MCP Client](https://github.com/Bigchef-dev/telegram-mcp-client) : 
 With Mastra and Mistral models, supports voice and multimodal inputs
 
-[⚡ Telegram MCP Server](https://github.com/Bigchef-dev/telegram-mcp-server) :
+[⚡ Telegram MCP Server](https://github.com/Bigchef-dev/telegram-mcp-server) : To use Polls and extra-features (planned messages, resume conversations...) easily.
 
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bigchef-dev)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/BigChef_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheo-guinche-b2a859207/)
